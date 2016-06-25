@@ -1,0 +1,36 @@
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\obj\x86\Debug\Gr2_2.exe
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\obj\x86\Debug\Gr2_2.pdb
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\Gr2_2.exe
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\Gr2_2.pdb
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\AForge.Controls.dll
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\AForge.dll
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\AForge.Imaging.dll
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\AForge.Video.dll
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\AForge.Math.dll
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\AForge.xml
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\AForge.Controls.xml
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\AForge.Imaging.xml
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\AForge.Video.xml
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\bin\Debug\AForge.Math.xml
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\obj\x86\Debug\Gr2_2.Form1.resources
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\obj\x86\Debug\Gr2_2.Properties.Resources.resources
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Дима\Desktop\Java\Компьютерная графика\Gr2_3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Дима\Desktop\Java\Компьютерная графика\CG2\Gr2_3\obj\x86\Debug\Gr2_2.exe
+C:\Users\Дима\Desktop\Java\Компьютерная графика\CG2\Gr2_3\obj\x86\Debug\Gr2_2.pdb
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\obj\x86\Debug\Gr2_2.exe
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\obj\x86\Debug\Gr2_2.pdb
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\bin\Debug\Gr2_2.exe
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\bin\Debug\Gr2_2.pdb
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\bin\Debug\AForge.Math.dll
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\bin\Debug\AForge.xml
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\bin\Debug\AForge.Controls.xml
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\bin\Debug\AForge.Imaging.xml
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\bin\Debug\AForge.Video.xml
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\bin\Debug\AForge.Math.xml
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\obj\x86\Debug\Gr2_2.Form1.resources
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\obj\x86\Debug\Gr2_2.Properties.Resources.resources
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\obj\x86\Debug\Gr2_3.csproj.GenerateResource.Cache
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2F\Task2\obj\x86\Debug\Gr2_2.exe
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2F\Task2\obj\x86\Debug\Gr2_2.pdb

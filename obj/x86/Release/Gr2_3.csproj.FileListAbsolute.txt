@@ -1,0 +1,11 @@
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\obj\x86\Release\Gr2_2.Form1.resources
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\obj\x86\Release\Gr2_2.Properties.Resources.resources
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2\obj\x86\Release\Gr2_3.csproj.GenerateResource.Cache
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2F\Task2\obj\x86\Release\Gr2_2.Form1.resources
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2F\Task2\obj\x86\Release\Gr2_2.Properties.Resources.resources
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2F\Task2\obj\x86\Release\Gr2_3.csproj.GenerateResource.Cache
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2F\Task2\bin\Release\Gr2_2.exe
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2F\Task2\bin\Release\Gr2_2.pdb
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2F\Task2\obj\x86\Release\Gr2_2.exe
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2F\Task2\obj\x86\Release\Gr2_2.pdb
+C:\Users\Дима\Desktop\HW\CompGrM1\Task2F\Task2\obj\x86\Release\Gr2_3.csprojResolveAssemblyReference.cache
